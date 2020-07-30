@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![dh1n3sh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dh1n3sh&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dh1n3sh&theme=radical&layout=compact)
+[![dh1n3sh's GitHub Stats](https://github-readme-stats.dh1n3sh.vercel.app/api?username=dh1n3sh&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)
+![Top Langs](https://github-readme-stats.dh1n3sh.vercel.app/api/top-langs/?username=dh1n3sh&theme=radical&layout=compact)
 
 
 <!--
