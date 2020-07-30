@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![dh1n3sh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dh1n3sh&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)
+
 <!--
 **dh1n3sh/dh1n3sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
