@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-[![dh1n3sh's GitHub Stats](https://github-readme-stats.dh1n3sh.vercel.app/api?username=dh1n3sh&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)
+You can connect with me here : [![Linkedin: dh1n3sh](https://img.shields.io/badge/-dhinesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dh1n3sh/)](https://www.linkedin.com/in/dh1n3sh/)  
+[![dh1n3sh's GitHub Stats](https://github-readme-stats.dh1n3sh.vercel.app/api?username=dh1n3sh&count_private=true&theme=radical&show_icons=true)](https://github.com/dh1n3sh)  
 ![Top Langs](https://github-readme-stats.dh1n3sh.vercel.app/api/top-langs/?username=dh1n3sh&theme=radical&layout=compact)
 
 
